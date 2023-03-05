@@ -1,0 +1,197 @@
+body{
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    width:auto;
+}
+
+.head_bar{
+    background-color: black;
+    height: 8vh ;
+    padding-top: 4vh;
+    padding-left: 10vw;
+    position: relative;
+   
+}
+.head_text{
+    color: white;
+    width: 100px;
+    margin: 40px 20px;
+    padding-top: 40px;
+    font-size: medium;
+    text-decoration: none;
+}
+.btn1{
+    background-color: cyan;
+    color: black;
+    padding: 0.5% 2%;
+    position: absolute;
+    right: 10vw;
+    margin-top: -2vh;
+    border-radius: 20% / 50%;
+    text-decoration: none;
+}
+.mainbody{
+    background-color: rgba(0, 0, 0, 0.947);
+    height: 85vh;
+    padding-left: 20vw;
+    padding-top: 10vh;
+    line-height: 3vh;
+
+}
+.mypic{
+    width: 20vw;
+    height: 65vh;
+    border-radius: 47% 53% 54% 46% / 30% 27% 73% 70%  ;
+    float: left;
+    margin-right: 4vw;
+}
+.head1{
+    color:cyan;
+}
+.head2{
+    color:white;
+    font-weight: bolder;
+}
+.head3{
+    color: cyan;
+    margin-top: -1vh;
+    font-weight: bolder;
+}
+.desc{
+    color: white;
+    font-size: medium;
+    width: 60%;
+    letter-spacing: 2px;
+    line-height: 2;
+}
+.body2{
+    background-color: rgba(0, 0, 0, 0.947);
+    height: 90vh;
+    margin: 0;
+    padding-left: 8vw;
+}
+.head4{
+    color:white;
+    font-weight: bolder;
+    position: absolute;
+    left:42vw;
+}
+.box1{
+    background-color:rgba(0, 0, 0, 0.524);
+    width: 25vw;
+    height: 60vh;
+    position: absolute;
+    top: 120vh;
+    text-align: center;
+}
+.head5{
+    color: aqua;
+    font-family: 'Sacramento', cursive;
+    font-size: 300%;
+}
+.desc2{
+    color: white;
+    font-size: medium;
+    width: 80%;
+    letter-spacing: 2px;
+    line-height: 2;
+    padding-left: 8vw;
+}
+.box2{
+    background-color:rgba(0, 0, 0, 0.524);
+    width: 25vw;
+    height: 60vh;
+    position: absolute;
+    top: 120vh;
+    left: 37vw;
+    text-align: center;
+}
+.box3{
+    background-color:rgba(0, 0, 0, 0.524);
+    width: 25vw;
+    height: 60vh;
+    position: absolute;
+    top: 120vh;
+    left: 67vw;
+    text-align: center;
+}
+
+.body3{
+    height: 65vh;
+    background-color: rgba(0, 0, 0, 0.947);
+    text-align: center;
+}
+.head6{
+    color:white;
+    font-weight: bolder;
+    top: 2vh;
+}
+.carousel-inner{
+    top: 15vh;
+}
+.arr{
+    margin-top:30vh;
+}
+.section-heading{
+    color: aqua;
+    font-family: 'Sacramento', cursive;
+    font-size: 300%;
+}
+em{
+    color:white;
+    font-weight: bolder;
+}
+.testimonial-img{
+    height:15vh;
+    width:15vw;
+    border-radius: 50%;
+}
+
+.body4{
+    height: 200vh;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.947);
+}
+
+.card{
+    width:30vw;
+    align-self: center;
+    left:10vw;
+    right:10vw;
+    margin-bottom: 5vh;
+    padding: 0;
+}
+
+.card-body{
+    height:43vh;
+    background-color: rgba(0, 0, 0, 0.899);
+}
+.card-title{
+    color:white !important;
+    font-weight: 10vh !important;
+}
+
+.card-text{
+    color: aqua;
+    font-family: 'Raleway';
+    font-size: 6vh;
+}
+
+.Contact{
+    height: 20vh;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.947);
+    margin-top: 0;
+}
+.footer-p{
+    padding-top: 2vh;
+    color: rgba(255, 255, 255, 0.332);
+}
+
+.footer-icon{
+    top: 15vh;
+    color: white;
+    width: 5vw;
+    text-decoration: none;
+    margin-left: 1vw;
+}
